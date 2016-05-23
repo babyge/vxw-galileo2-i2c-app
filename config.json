@@ -10,6 +10,13 @@
   "icon": "images/galileo_20_20.png",
   "name": "Galileo I2C",
   "description":"An example of using I2C on Intel Galileo Gen2",
+  "key": "vxw-galileo2-i2c-app",
+  "license": [
+     {
+     "type": "BSD-3-Clause",
+     "url": "http://spdx.org/licenses/BSD-3-Clause.html"
+     }
+   ],
   "tags": [
      "galileogen2",
      "vxworks-7"
